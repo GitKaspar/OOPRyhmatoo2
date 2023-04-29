@@ -1,0 +1,23 @@
+Ma elan talvel ning suren suvel. Ma kasvan juured ülespoole ja nutan päikest nähes allapoole.
+
+Mis ma olen?
+1. Jääpurikas
+2. Mägi
+3. Lumi
+v1.Eit vahib segaduses ilmega ringi ja ütleb: 
+v1.Kuidas sa selle ära arvasid?
+v1.See oli üks mu parimaid mõistatusi.
+v1.
+v1.Nojah. Eks ma siis lubasin. Tule ma näitan nad sulle kätte.
+v1.Ära laste karjumist tähele pane.
+v1.
+v1.* Lähed eidega koos läbi tühja vaikse sassis ruumi. *
+v1.* Eit kaevab katete ja pilbaste hunnikust välja suletud kasti ja ulatab sulle.*
+v1.* Kontrollid sisu. *
+v1.* Veel kasutuskõlblik materjal. *
+v1.* Tänad eite ja asud teele küla poole. *
+v1.* Eit hakkab lähima seina peale karjuma, kui lahkud. *
+v2.Hah! Vale! Jääpurikas on õige.
+v2.No, proovime korra veel.
+v3.Hah! Vale! Jääpurikas on õige.
+v3.No, proovime korra veel.

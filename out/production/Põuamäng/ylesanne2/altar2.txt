@@ -1,0 +1,54 @@
+Kuidas vastad?
+1. Jää vale juurde ja proovi meest keelitada.
+2. Lõpeta jant ja moonda ta koduloomaks.
+v1.Õpilane:
+v1.Ma räägin tõtt.
+v1.Mind saadeti tegelikult ülesandega.
+v1.Sinu vagadus on preestrile muljet avaldanud.
+v1.Ta soovis sind isiklikult enda juurde, et saaks sind terve koguduse ees tunnustada.
+v1.
+v1.* Mehike vaatab su poole kahtlustavalt. *
+v1.
+v1.Mehike:
+v1.Värske värvatu ja preestri enda poolt saadetud.
+v1.Mida rohkem sa räägid, seda ebatõenäolisem see kõik näib.
+v1.Ei usu ma sind mitte üks raas.
+v1.Sa oled paha peal väljas.
+v1.Ilmselt saatis su see kolbakandja.
+v1.Ja kolbakandja teenritele on meil tegelikult vaid üks lahendus...
+v1.
+v1.* Mehike taganeb altari taha ja võtab sealt vikati, mida sinu silm varem ei seletanudki. *
+v1.
+v1."Lõikuse aeg!" kuulutab ta ja asub rünnakule.
+v1.
+v1.Põgened. Väeti välimuse kohta on mees üllatavalt kiire. Pead pagema üha kaugemale ja kaugemale metsa.
+v1.Saad mehe eest küll peitu, aga selleks ajaks on päike juba looja seadmas.
+v1.Täna altari hävitamine ei õnnestu. Homme on ilmselt valve tugevam.
+v1.Jätad asja pooleli ja naased külla.
+v2.* Näed, et tavalised sõnad siin ei aita. *
+v2.* Põlvitad ja võtad sisse loitsimisasendi. *
+v2.* Mees vaatab sind üksisilmi, aga ei saa aru, mida sa teed ega sekku. *
+v2.* Lausud muundamiskunsti sissejuhatamiseks tarvilikud palved ning vallandad kotikesest vööl riituseõlid. *
+v2.
+v2.* Mehike naerab su välja. Arvab, et sa tegeled totrusega. *
+v2.
+v2.* Võtad paunast veel kanasule ja keskendud sellele. *
+v2.Paned mõttes sule mehikese külge ja lausud:
+v2.See sulg siin sinu nahal.
+v2.See sulg siin sinu nahal.
+v2.See sulg siin sinu nahal.
+v2.
+v2.* Tõstad lõpuks vaikides käed üles, hõõrud neid ning suunad nad koos pilguga mehikesele. *
+v2.
+v2.* Mees seisatab ja hakkab köhima. *
+v2.* Hetkega kahaneb ta poole küünra suuruseks linnuliseks, mis kaagutab.*
+v2.
+v2.* Muigad rahulolevalt. *
+v2.* Lähed kana - või on see kukk? - juurde. Linnuke vaatab sinu poole ja teeb suurt kaagutavat kisa. *
+v2.* Äsad linnukesele jalaga. Lind lendab suure kaarega lagendikult välja.*
+v2. 
+v2.* Seejärel korjad sa ümbrusest kokku heina ja kuivi oksi. Asetad need altari ümber. *
+v2.* Siis lükkad altarit täiest jõust *
+v2.* Altar kukub ümber ja tuli sellel levib peagi kõikjale ümbrusesse. *
+v2.* Teed vehkat ja vaatad enne lahkumist, kuis kogu pühamu prõksudes põleb. *
+v2.* Töö tehtud. Luvipa oleks uhke.*

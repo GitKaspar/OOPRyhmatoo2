@@ -1,0 +1,6 @@
+Mängu eesmärk on soortiada edukalt riitus, mis kutsub välja jumaluse.
+Selleks on vaja eelnevalt täita mõned ülesanded.
+Kohati esitatakse mängu sisu automaatselt, kohati küsitakse kasutajalt otsust.
+Otsuse tegemiseks peab sisestama valiku numbri ja vajutama "Enter".
+Kui väljastatakse kolm punkti (...) peab jätkamiseks vajutama "Enter".
+Edu ja loodame, et mäng meeldib!

@@ -1,0 +1,62 @@
+Mida ühe veendunud usklikuga teha?
+1. Valeta: Aklupati preester kutsus ta tunnustamiseks enda juurde. 
+2. Valeta: tuled käsuga altar hävitada.
+v1.Õpilane:
+v1.Mind saadeti tegelikult ülesandega.
+v1.Sinu vagadus on preestrile muljet avaldanud.
+v1.Ta soovis sind isiklikult enda juurde, et saaks sind terve koguduse ees tunnustada.
+v1.
+v1.* Mees tunneb rinnus uhkust, kuid proovib seda varjata. *
+v1.
+v1.Mehike:
+v1.Selline au.
+v1.
+v1.No, pühamehe kutsele ei saa ei öelda.
+v1.* Ta jääb mõttesse. *
+v1.Samas... Altar vajab pidevat valvet.
+v1.Sinuni on tõsi juba jõudnud, aga kõik ei ole nii mõistlikud.
+v1.Kas sa saaksid püha tuld valvata, kuniks ma ära olen?
+v1.Tulen esimesel võimalusel tagasi.
+v1.
+v1.Õpilane:
+v1.Ikka saan.
+v1.Võtan endale kohustuseks tagada, et leek oleks elujõuline.
+v1.
+v1.* Muigad sisimas *
+v1.
+v1.Mehike:
+v1.Suur tänu, nooruk.
+v1.Aklupat näidaku sulle teed!
+v1.
+v1.Meenutad eemalt kuuldud Aklupati jüngrite tervitust:
+v1.Kandku ta sind ja su karja!
+v1.
+v1.* Mees lahkub lagendikult ja kaob peagi. *
+v1.* Kaua sa oma tööga ei viivita. * 
+v1.* Korjad kokku kuivi oksi ja heina, mida ümbruses küllaga. Asetad need altari ümber. *
+v1.* Seejärel lükkad altarit täiest jõust *
+v1.* Altar kukub ümber ja tuli sellel levib peagi kõikjale ümbrusesse. *
+v1.* Teed vehkat ja vaatad enne lahkumist, kuis kogu pühamu prõksudes põleb. *
+v1.* Töö tehtud. Luvipa oleks uhke.*
+v2.Õpilane:
+v2.Oleks mul häid uudiseid, vend.
+v2.Preester külas kardab, et siinne altar tuleb hävitada.
+v2.Aklupat ise olevat saatnud talle nägemuse, et see koht tõotab hukku.
+v2.
+v2.Mehike vaatab sulle altkulmu ja vastab:
+v2.Alles paar päeva tagasi rääkisime preestriga. Tal oli just hea meel siinse pühamu üle.
+v2.Koht on igati soodne: aitab uued inimesed õige jumala juurde.
+v2.Kui altar sisse pühitseti, ütles ta veel, et jumal just soosib meie ettevõtmist.
+v2.Ma arvan, et sa räägid valskust.
+v2.Ei ole sa midagi üks meist!
+v2.Too vihmajumala šamaan saatis sind pahade kavatsustega siia!
+v2.Mina neil õnnestuda ei lase.
+v2.
+v2.* Mehike taganeb altari taha ja võtab sealt vikati, mida sinu silm varem ei seletanudki. *
+v2.
+v2."Lõikuse aeg!" kuulutab ta ja asub rünnakule.
+v2.
+v2.Põgened. Väeti välimuse kohta on mees üllatavalt kiire. Pead pagema üha kaugemale ja kaugemale metsa.
+v2.Saad mehe eest küll peitu, aga selleks ajaks on päike juba looja seadmas.
+v2.Täna altari hävitamine ei õnnestu. Homme on ilmselt valve tugevam.
+v2.Jätad asja pooleli ja naased külla.

@@ -1,0 +1,49 @@
+v1.Õpilane:
+v1.Ka minul on teile üht-teist näidata.
+v1.
+v1.* Võtad loitsumisasendi sisse ning hakkad mälu järgi vanu nõidusi lausuma. *
+v1.* Suunad oma käe selle sama puukasti hunniku poole, mille tagant tuvi oli hetk varem välja lennanud, ning viimaseid sõnu lausudes pahvatab virn kärgatusega leekidesse. *
+v1.* Kostab karje ning kastihunniku tagant jookseb välja suitvate pükstega mees, linnupuur kätevahel. *
+v1.* Rahva seas vallandub pomin ning iga hetkega muutub selle hääletoon vihasemaks ja valjemaks. *
+v1.
+v1.Õpilane:
+v1.Sa ise käskisid oma meestel selle tuvi lendu laste? On nii?
+v1.Ma teadsin et sa oled üks suur rahva pettur! Mitte midagi muud! // Saaks ka ilma selle lauseta - ootame kohe vastust.
+v1.
+v1.* Inimmass, nüüd juba päris ärritunud hakkab libašamaani peale karjuma ning talle lähemale liikuma. *
+v1.
+v1.Aklupati šamaan:
+v1.Rahvas, kuulake mind! Jüngrid, sõbrad... Olge nüüd! 
+v1.Te ju teate ja tunnete mind. Mina ei valetaks teile nii.
+v1.Ega kastide taga polnud keegi muu kui vana joodik Karel, kes arvatavasti lihtsalt tolle sammuse hunniku taha magama jäi...
+v1.Sellest ei saa ju midagi järeldada!
+v1.
+v1.* Enne kui šamaan oma lause õieti lõpetada suudab, lennutatakse tema poole juba kive. *
+v1.* Vaatad, kuidas teine varjub ja lõpuks oma elu hoidmiseks külast varvast viskab. *
+v1.
+v1.* Rahvamass tormab šamaanile järgi. Tunned ennast tehtu üle uhkelt. *
+v1.* Tundub, et eesmärk sai täidetud ja valeusu levitaja külast ära aetud. *
+v1.* Lähed koju, et enne homset veidi sõba silmale saada. *
+v2.Mõtled veidi endamisi.
+v2.Ehk oli tõesti su õpetajal küla uue šamaani asjus ekslik arvamus...
+v2.Võibolla toob see tulevikus külale rohkem kahju nii tugevate ennustusannetega loitsjat ära ajada?
+v2.
+v2.Aklupati šamaan:
+v2.Noh, kuhu su jutukus nüüd siis kadus? Tahtsid ju miskit minuga rääkida? 
+v2.Või laususin su kogemata tummaks?
+v2.
+v2.* Šamaan hakkab koos rahvaga kahisevalt naerma. *
+v2.* Tunned piinlikust. *
+v2.
+v2.Õpilane:
+v2.Jah, pean tunnistama, et süüdistasin sind alusetult, kallis pühamees.
+v2.
+v2.Aklupati šamaan:
+v2.Ei ole hullu tüdrukutirts. 
+v2.Nüüd, kus sa oled päris võimeid näinud, võid sa minna ja oma šamaanile ka üht-teist õpetada.
+v2.Teist kahest võib veel asja saada, kuigi ma selles väga kahtlen...
+v2.
+v2.* Rahvamass ei suuda oma itsitamist kinni hoida ning hakkab sind jõllitades laginal naerma. *
+v2.
+v2.* Oled häbisse jäänid. Siin vestluses sulle enam võiduvõimalust ei paista olevat. *
+v2.* Taganed saba jalge vahel külaplatsilt ja otsustad minna koju patja nutma. Mine tea, homme võib olla parem päev. *

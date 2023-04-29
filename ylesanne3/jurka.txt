@@ -1,0 +1,94 @@
+Karjakasvataja ei ela kaugel.
+Sammud lühikese ajaga tema juurde mööda nii inimeste kui alpakade poolt sisse käidud rada.
+Mõtled, et kõige tervem loom oleks hea ohvriks saada.
+
+Jõuad Jürka aedikuni ja näed meest ennast: pikk ponks mehehakatis, kes tühjusesse vaadates tarale nõjatub.
+Ta märkab sind.
+
+Jürka:
+Tervist, neiu! Mis sinusugust usurahvast siia kanti toob?
+Viimati te meisse Aklupati jüngreisse väga hästi ei suhtunud.
+Või on olud nüüd teised?
+
+Õpilane:
+Ah, jaa, jõudu tööle! Usuasju ma seekord ei aja.
+Küla tulevik kahjuks kaalul. See on tähtis iga usutunnistusega inimesele.
+
+Jürka:
+Aga mis sa siis ikka tahad?
+
+Õpilane:
+Me tahame maagiaga vee tagasi tuua, aga selleks on meil erinevaid asju vaja.
+Muuseas oleks hea, kui üht su looma kasutada saaksime?
+
+Jürka:
+Milleks kasutada?
+
+Õpilane:
+No... Ohvriloomaks.
+
+* Jürka vahib tuima ilmega otsa*
+
+Jürka:
+Ohvriloomaks?
+Miks loom? Sa ei saa aru, tüdruk, kui kallid need loomad mulle.
+Tean päris mitut inimest, kes vähem väärt.
+Sa neid ei taha ohverdada?
+
+Kuidas vastad?
+1. Näita koht kätte.
+2. Proovi meest veenda, viidates küla üldisele hüvele.
+3. Paku vahetuskaupa.
+v1.Õpilane:
+v1.Teen sinu arvates nalja!?
+v1.Küla saatus on kaalul ja sina naljatad!
+v1.
+v1.Jürka:
+v1.Kui mitte praegu, siis millal?
+v1.
+v1.Õpilane:
+v1.Kas sellist õpetust teie ebausk külvabki?
+v1.Vaid Luvipa teenimine saab meid päästa.
+v1.Sa pead meid aitama!
+v1.
+v1.* Kaalud oma tahte saavutamiseks kahte strateegiat *
+v1.1. Nõiud mehe looma loovutama.
+v1.2. Esita veel suuremaid nõudmisi.
+v1.Kumma valid?
+v2.Õpilane:
+v2.Kallis mees, kes siis inimesi ohverdab?
+v2.Inimesi tahame me just päästa. See ongi minu eesmärk.
+v2.Kui sa vaid annaksid meile looma, saaksime ehk kogu küla päästetud: sina osutuksid kangelaseks.
+v2.
+v2.Jürka:
+v2.Kangelased on ülehinnatud ja ma pole ikka veel kindel, kas inimene loomast alati parem on.
+v2.Viimaselt saab häda korral villa ja liha, aga halvalt inimeselt ei saa sedagi.
+v2.Mina ei taha.
+v2.
+v2.* Paistab, et jäärapäine jõmmu Jürka ei taha vastu tulla. *
+v2.Mida sa peale hakkad?
+v2.
+v2.1. Nõiud mehe looma loovutama.
+v2.2. Palud Jürkat.
+v3.Õpilane:
+v3.Ega ma ei eeldanudki, et sa looma lihtsakäeliselt loovutad.
+v3.Saan ma sulle midagi hankida või sind mingil muul viisil aidata?
+v3.
+v3. * Jürka muutub ootamatult mõtlikuks *
+v3.
+v3.Jürka:
+v3.No... On üks tüdruk.
+v3.
+v3.Sepa Sanna sealtsamast...
+v3.
+v3. *Ta osutab umbmääraselt enda tarast teisele poole*
+v3.
+v3.* Õpilasel meenub, et tegelikult saab ta Sannaga hästi läbi *
+v3.
+v3.Õpilane:
+v3.Aa... Naistemured. No, neile on ka lahendused.
+v3.
+v3.Millise kasuks otsustad?
+v3.1. Mõtled ümber ja keeldud aitamast.
+v3.2. Otsustad aidata Jürkal Sannaga kokku saada.
+v3.3. Paku ennast Sanna asemel.

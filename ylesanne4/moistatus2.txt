@@ -1,0 +1,23 @@
+Ma lendan ilma tiibadeta ja nutan ilma silmadeta.
+
+Mis ma olen?
+1. Suits
+2. Pilv
+3. Tuul
+v1.Ei. Vale vastus! Õige vastus on pilv.
+v1.No, proovime korra veel.
+v3.Ei. Vale vastus! Õige vastus on pilv.
+v3.No, proovime korra veel.
+v2.Eit vahib segaduses ilmega ringi ja ütleb: 
+v2.Kuidas sa selle ära arvasid?
+v2.See oli üks mu parimaid mõistatusi.
+v2.
+v2.Nojah. Eks ma siis lubasin. Tule ma näitan nad sulle kätte.
+v2.Ära laste karjumist tähele pane.
+v2.
+v2.* Lähed eidega koos läbi tühja vaikse sassis ruumi. *
+v2.* Eit kaevab katete ja pilbaste hunnikust välja suletud kasti ja ulatab sulle.*
+v2.* Kontrollid sisu. *
+v2.* Veel kasutuskõlblik materjal. *
+v2.* Tänad eite ja asud teele küla poole. *
+v2.* Eit hakkab lähima seina peale karjuma, kui lahkud. *

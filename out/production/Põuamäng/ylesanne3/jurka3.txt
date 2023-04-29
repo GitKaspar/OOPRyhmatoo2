@@ -1,0 +1,85 @@
+v1.* Sõbrannat mingile karjapoisile ma küll kupeldama ei hakka. * 
+v1.* Pealegi on suhtedraama lahendamine alati tülikas ja aeganõudev. *
+v1.
+v1.Õpilane:
+v1.Jääb ära, karjapoiss!
+v1.Küla tulevik on küll ohus, aga teatud piiridest üle ei minda.
+v1.Sanna, mu hea sõbranna:
+v1.teda ma küll välja ei anna.
+v1.
+v1.* Jürka läheb näost punaseks. *
+v1.
+v1.Jürka:
+v1.Ja mõelda, et ma sulle sellist asja ütlesin...
+v1.
+v1.* Mees läheb ühe oma looma juurde, paneb käed ümber ja matab pea tema villa. Sa näed ta kere vappumas. *
+v1.
+v1.* Edasised katsed Jürkaga ühendust saada ei kanna vilja. *
+v1.* Samas piilub ta vahetevahel ikka üle õla ja jälgib karja. *
+v1.* Veenda ei õnnestunud ja varastada ei saa. *
+v1.* Peab tühjade kätega tagasi minema. *
+v2.Õpilane:
+v2.On see tõeline armastus?
+v2.
+v2.Jürka:
+v2.Nii palju, kui mina selliseid asju tean, jah.
+v2.
+v2.Õpilane:
+v2.Tõelisele armastusele aitan ikka kaasa!
+v2.
+v2.* Jürka nägu lööb särama. *
+v2.
+v2.Jürka:
+v2.Kas tõesti?
+v2.
+v2.Õpilane:
+v2.Ikka, aga ühe ööga ma kõike korraldada ei saa. Riitus vajab ka ette valmistamist.
+v2.Teeme nii, et sa annad meile riituseks looma ja ma tõotan, et aitan sind Sannaga?
+v2.Vannun Luvipa ja Sanna ja kõige tähtsa nimel!
+v2.
+v2.* Paned silmad kinni ja räägid midagi segast, lootes, et Jürka võtab seda loitsu tõe pähe. *
+v2.
+v2.Jürka:
+v2.No... Hea küll.
+v2.Kui sa juba nii suurte asjade nimel vannud ja mind Sannaga kokku viid, olen nõus. 
+v2.
+v2.* Jürka ohkab, pöörab ringi ja hakkab loiul sammul ühe alpaka poole minema. *
+v2.* Ta vaatab loomale tükk aega otsa ning kallistab teda. Seejärel juhib ta looma sinu juurde. *
+v2.
+v2.Poolpisarais ütleb Jürka:
+v2.Luba, et ta ei kannata!
+v2.
+v2. Õpilane:
+v2. Luban.
+v2. 
+v2. * Võtad looma ohjadest kinni ja hakkad šamaani telgi poole astuma. *
+v2. Kaugusest hõikab Jürka:
+v2. Hüvasti, Minni! Sina olid kõige parem!
+v2.
+v2.* Peagi oled loomaga kohale jõudnud. Annad ta šamaanile valvata ja sead edukalt ööunne. *
+v3. * Jürka on tegelikult üpris nägus mees... *
+v3.
+v3.Õpilane:
+v3.Aga... See Sanna. Tema kohta pole teada, mis ta tahab või kes ta tahab.
+v3.Mina aga... olen siin samas olemas.
+v3.Kui sa annaksid vaid riituseks looma, saaksin ma, mis ma tahan: küla päästetud.
+v3.Selle nimel oleksin kõigeks valmis.
+v3.Võiksin sind truu kaaslasena teenida, ja enamatki...
+v3.
+v3.* Jürka vaatab sind ilmega, mis peegeldab kerge segaduse ja hämmingu segu. *
+v3.* Järsku muutub ta tõsiseks. *
+v3.
+v3.Jürka:
+v3.Ei!
+v3.Minu südames on vaid üks naine ja mingid odavad pakkumised mind üle ei võida!
+v3.Kasi mu maalt!
+v3.
+v3.* Mees haarab ühe tarateiba ja jookseb kiiresti sinu suunas. *
+v3.* Taganed, suutmata sobivat loitsu ette valmistada. *
+v3.* Pead tükk aega jooksma, kuni ta tagaajamise lõpetab. *
+v3. Eemalt hõikab Jürka:
+v3. Ja et ma enam sind siin ei näeks!
+v3.
+v3. * See läks küll kehvasti. *
+v3. * Enam pole lootustki Jürkalt ohvrilooma saada. *
+v3. * Naased koju ja mõtled, mida edasi teha. *

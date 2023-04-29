@@ -1,0 +1,5 @@
+Vana tiik kose ees;f;tulemused/koskTulemused.txt
+Aplukati altar;f;tulemused/altarTulemused.txt
+Jürka karjamaa;f;tulemused/jurkaTulemused.txt
+Viirukimeistri hütt;f;tulemused/adlinTulemused.txt
+Aplukati šamaani kogudusplats;f;tulemused/samaanTulemused.txt

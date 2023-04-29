@@ -1,0 +1,38 @@
+v1.* Võtad loitsimispoosi sisse. *
+v1.* Hakkad kordama esimesi nõiasõnu. *
+v1.
+v1.* Jürka teeb suured silmad. *
+v1.
+v1.* Äkki muutub Jürka erksaks ja hakkab kiiresti sinu poole liikuma. *
+v1.* Märkad seda, aga enne, kui jõuad reageerida, annab ta sulle korraliku hoobi vastu vahtimist. *
+v1.
+v1.* Oled uimaselt maas ja vaatad üles. *
+v1.
+v1.Jürka:
+v1.Mis sa arvad, et ma naist ei löö? Tuleb veel teise õue peale nõiduma?
+v1.
+v1.* Need on viimased sõnad, mis sa sellel päeval kuuled. *
+v1.* Ärkad juba siis, kui on pime. *
+v1.* Kari läinud, Jürka läinud. *
+v1.* Ohvriloom jäi saamata. *
+v1.* Ajad ennast püsti, et järgmiseks päevaks kosuma minna. *
+v1.* Pea ikka veel valutab.*
+v2.Õpilane:
+v2.Sa pead andma meile kõige uhkema looma oma karjast!
+v2.Vaid nii saab Luvipa rahuldatud ja küla päästetud.
+v2.Aita meid või saa hukka!
+v2.
+v2.Jürka:
+v2.Mingi võõra jumala ja tema tõreda teenri jaoks ma küll kedagi ära ei anna - ilusaimast rääkimata.
+v2.Mine minema ja aja oma pada kellelegi, kes seda kuulata viitsib.
+v2.
+v2.* Jürka ajab oma karja kokku ja saadab loomad enneagselt laudasarnasesse ehitisse tema telgi kõrval. *
+v2.
+v2.Jürka:
+v2.Ära enam mõtlegi minu käest teenet küsima tulla.
+v2.Ma ei taha sinuga rääkida.
+v2.
+v2.* Jürka sulgeb laksuga oma telgi ja õhku jääb vaikus. *
+v2.* Siin pole vist enam midagi teha. *
+v2.* Loom jäi saamata. *
+v2.* Peab lootma, et teistes ettevõtmistes oled edukam. *

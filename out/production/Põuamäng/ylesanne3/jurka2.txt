@@ -1,0 +1,50 @@
+v1.* Võtad loitsimispoosi sisse. *
+v1.* Hakkad kordama esimesi nõiasõnu. *
+v1.
+v1.* Jürka teeb suured silmad. *
+v1.
+v1.* Äkki muutub Jürka erksaks ja hakkab kiiresti sinu poole liikuma. *
+v1.* Märkad seda, aga enne, kui jõuad reageerida, annab ta sulle korraliku hoobi vastu vahtimist. *
+v1.
+v1.* Oled uimaselt maas ja vaatad üles. *
+v1.
+v1.Jürka:
+v1.Mis sa arvad, et ma naist ei löö? Tuleb veel teise õue peale nõiduma?
+v1.
+v1.* Need on viimased sõnad, mis sa sellel päeval kuuled. *
+v1.* Ärkad juba siis, kui on pime. *
+v1.* Kari läinud, Jürka läinud. *
+v1.* Ohvriloom jäi saamata. *
+v1.* Ajad ennast püsti, et järgmiseks päevaks kosuma minna. *
+v1.* Pea ikka veel valutab.*
+v2.Aga mõtle siis oma karjale!
+v2.Ka nemad nälgivad, janunevad kui vett ei ole.
+v2.Kari kidur ja sinugi õnn lõppeb.
+v2.Kui sa vaid annaksid meile oma kõige tugevama isendi, saaksime ehk ülejäänud säästa.
+v2.
+v2.Jürka:
+v2.Kõige tugevama? Minu Minni?
+v2.
+v2.* Jürkal kulm kortsus. *
+v2.
+v2.Annaksin pigem ennast, kui Minnit...
+v2.Aga võõra jumala nimel on sellist asja palju nõuda.
+v2.
+v2.Ma ei suuda mõelda elust Minnita.
+v2.
+v2.* Mees vajub näost ära. *
+v2.
+v2.Minu Minni...
+v2.
+v2.* Jürka läheb ühe kaunima isendi juurde ja ajab käed ümber tema pika koheva kaela. *
+v2.
+v2.Ei anna ma sind kellelegi.
+v2.Ei iial.
+v2.
+v2.Mina ära, paha naine!
+v2.Sa ei ole siin teretulnud.
+v2.
+v2.* Proovid Jürkat paar korda kõnetada, aga ta ei vasta enam sulle. *
+v2.* Paistab, et see ponnistus läks vett vedama. *
+v2.* Kuigi päev ei ole veel läbi, pead nentima, et väitlus väsitas. *
+v2.* Lähed koju, et end järmiseks ettevõtmiseks välja puhata. *

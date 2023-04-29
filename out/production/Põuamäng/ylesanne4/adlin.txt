@@ -1,0 +1,74 @@
+Saabud metsatukal asetseva vana laguneva puitmaja juurde, mille uks haigutas pooleldi lahti ja tekitas tuulega tantsides kriginaid.
+Metsik rohelus, nüüdseks suures osas juba kolletav, on ümbrusesse jõulise pealetungi sooritanud.
+Mõni ütleks, et tegemist on kutsumata külalisega. Sa ei ole nendega ühel meelel.
+
+* Hõigud lootuses, et keegi sulle vastab. *
+
+Ae! On siin keegi?
+
+Vastuseks kostab majast üllatunud karje.
+Ukseavasse ilmub kohkunud ilme, kuid rõõmsa näoga vanem naisterahvas.
+Paistab, et leidsid selle, keda otsisid.
+
+Naine hakkab rääkima:
+Mis? Külaline? Imeline!
+Aga kes sa selline oled?
+* Eit kratsib kukalt.*
+
+Tervitad naist:
+Terekest!
+Küla šamaan saatis mind.
+Oled ilmselt näinud raskeid aegu ümber ringi. Veest on vajaka. Nälg on silmapiiril.
+Veejumal on vaja välja kutsuda aga korraliku viirukita me sellega hakkama ei saa.
+Olen kuulnud, et sa olid kunagi küla viirukimeister.
+Saad sa meid aidata?
+
+Eit vastab:
+Heheh...
+Aga mis sest viirukist ikka?
+Aita mul parem mesilased minu mesitarus üle lugeda.
+Iga suvi lendab sindrinahku nii palju ringi, aga talveks on nad kõik kadunud.
+Pean välja selgitama, kes see saatan minu mesilasi varastab.
+Tule, tule kähku!
+
+Mis sa peale hakkad?
+1. Lähed eidega mesilasi lugema. 
+2. Keeldud.
+3. Seletad eidele, et varast ei ole - mesilased talvituvad.
+v1.Järgned eidele kohta, mis varem aia eest oli.
+v1.Mesilasi on palju, koduks mesilaspesad puude otsas ja üksikud algelised mesitarud.
+v1.Alustate lugemist.
+v1.
+v1.Vaatamata sinu suurimatele pingutustele ei suuda sa mesilasi kokku lugeda.
+v1.Nad liiguvad kogu aeg ringi. Raske on aru saada, kas oled üht mesilast juba varem lugenud või mitte.
+v1.Natukese aja pärast väsib eit lugemisest ja jääb pikali vajudes magama.
+v1.
+v1.Mis sa peale hakkad?
+v1.1. Raputa eite.
+v1.2. Otsi vett, mida naisele äratamiseks peale visata.
+v1.3. Kasuta äratamisloitsu.
+v2.Eit pahandab sinu peale ja pageb metsa.
+v2.
+v2.Mida sa teed?
+v2.1. Lähed eite metsast otsima.
+v2.2. Lased hullul minna.
+v3.Annad eidele mõistusliku seletuse:
+v3.Kallis eit, kas sa siis ei tea, et kõik sitikad talveks puhkama lähevad?
+v3.Praegu vanu sitikaid tagasi ei saaks.
+v3.Äkki tuled meile ikka vastu ja aitad riituseks viirukiga varustada?
+v3.
+v3.Eit vastab:
+v3.Ahh.. mis sa siin oma viirukiga!
+v3.Sinuga pole üldse lõbus.
+v3.Mul vist oli siin veel mingi varu, millega ma midagi ei tee.
+v3.Aga kaasa saad sa selle ainult juhul, kui sa arvad ära ühe minu mõistatuse.
+v3.Usu mind, see saab olema lõbus!
+v3.
+v3.* Eide silmad löövad kõhedusttektiavalt särama. *
+v3.
+v3.Mulle nii meeldib mõistatusi välja mõelda!
+v3.Esitan neid tütrekesele kogu aeg.
+v3.Eksju Alima?
+v3.
+v3.* Keegi ei vasta. *
+v3.

@@ -1,0 +1,21 @@
+Ma istun tähtede taga ja mägede all. Ma täidan tühjad augud ja mind ei saa katsuda.
+
+Mis ma olen?
+1. Ruum
+2. Saladus
+3. Pimedus
+v1.Haha! Su vastus on vale! Õige vastus on pimedus.
+v2.Haha! Su vastus on vale! Õige vastus on pimedus.
+v3.Eit vahib segaduses ilmega ringi ja ütleb: 
+v3.Kuidas sa selle ära arvasid?
+v3.See oli üks mu parimaid mõistatusi.
+v3.
+v3.Nojah. Eks ma siis lubasin. Tule ma näitan nad sulle kätte.
+v3.Ära laste karjumist tähele pane.
+v3.
+v3.* Lähed eidega koos läbi tühja vaikse sassis ruumi. *
+v3.* Eit kaevab katete ja pilbaste hunnikust välja suletud kasti ja ulatab sulle.*
+v3.* Kontrollid sisu. *
+v3.* Veel kasutuskõlblik materjal. *
+v3.* Tänad eite ja asud teele küla poole. *
+v3.* Eit hakkab lähima seina peale karjuma, kui lahkud. *
