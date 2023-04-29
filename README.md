@@ -5,7 +5,6 @@ Siin saab käia välja muudatusi ühes või teises koodijupis. Kui soovib muuta 
 ## Peaklass
 
 ```
-
 import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
@@ -201,15 +200,11 @@ public class Peaklass {
             Abi.loeFailEtte("lopp/kukudLabi.txt");
     }
 }
-
-
 ```
 
 ## Klass Koht
 
-
 ```
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -288,15 +283,12 @@ public class Koht {
 
     }
 }
-
 ````
-
 
 ## Klass Abi
 
 
 ```
-
 import java.io.File;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
@@ -602,5 +594,4 @@ public class Abi {
         adlin.setKasKülastatud(true);
     }
 }
-
 ```
