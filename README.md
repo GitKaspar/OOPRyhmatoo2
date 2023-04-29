@@ -5,7 +5,6 @@ Siin saab käia välja muudatusi ühes või teises koodijupis. Kui soovib muuta 
 ## Peaklass
 
 ```
-{
 
 import java.io.File;
 import java.nio.charset.StandardCharsets;
@@ -203,14 +202,13 @@ public class Peaklass {
     }
 }
 
-}
+
 ```
 
 ## Klass Koht
 
 
 ```
-{
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -291,7 +289,6 @@ public class Koht {
     }
 }
 
-}
 ````
 
 
@@ -299,7 +296,6 @@ public class Koht {
 
 
 ```
-{
 
 import java.io.File;
 import java.nio.charset.StandardCharsets;
@@ -607,5 +603,4 @@ public class Abi {
     }
 }
 
-}
 ```
